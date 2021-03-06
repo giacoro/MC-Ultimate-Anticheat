@@ -1,6 +1,6 @@
 # Ultimate Anticheat
 
-                                                                        **BASIC CONCEPTS**
+**Basic Concepts**
 
 1) User vote
 
