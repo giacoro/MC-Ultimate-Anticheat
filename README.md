@@ -1,6 +1,7 @@
 # Ultimate Anticheat
 
 BASIC CONCEPTS
+
 1 Costum report gui(based on server rules)
 Example
 
@@ -12,6 +13,7 @@ Example
     Grief (Rare Case)
 
 2 User vote
+
 3 Rewards and slashes
 
 VISION
