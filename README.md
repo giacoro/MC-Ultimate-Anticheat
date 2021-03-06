@@ -51,9 +51,8 @@ Gli staffer non potranno controllare la gente per evitare di farmare punti staff
 Gli admin e owner sceglieranno come valutare questi punti staff.
 
 **Controlli e segnalazioni regole specifiche**
-Lo staff non potrà fare controlli. Questo permette di non potere abusare di potere (ad esempio salvando gli amici dal combat log) o evitare di farmare staff points.
-Se una persona entro tempo determinato non entra nel server discord verrà bannato in automatico e i mod non avranno nessuna ricompensa.
-Le segnalazioni che si fanno in un certo lasso di tempo (da mezzanotte a 8 per esempio) non comportano a jail o mute, restano report e saranno visionabili dagli staffer che potranno solo in questo particolare caso fare controllo senza permesso.
-Ogni volta che si segnala i soldi verranno lockati come garanzia di autenticità della segnalazione finche la persona non slogga. In quel momento soldi verranno ridati. Si potrà risegnalare appena la persona entra online.
+Lo staff non potrà fare controlli. Questo permette di non potere abusare di potere (ad esempio salvando gli amici dal combat log) o evitare di farmare staff points. Le segnalazioni che si fanno in un certo lasso di tempo (da mezzanotte a 8 per esempio) non comportano a jail o mute, restano report e saranno visionabili dagli staffer che potranno solo in questo particolare caso fare controllo senza permesso.
+
+Se una persona entro tempo determinato non entra nel server discord verrà bannato in automatico.
+
 Non si può segnalare una persona più volte, ma si può segnalare per più motivi.
-In caso una persona segnali per un motivo sbagliato essa non perderà i soldi che ha lockato ma perderà solamente voting power.
