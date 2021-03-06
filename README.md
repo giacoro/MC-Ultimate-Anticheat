@@ -1,4 +1,4 @@
-# Atlas Update
+# Ultimate Anticheat
 
 BASIC CONCEPTS
 1 Costum report gui(based on server rules)
