@@ -1,28 +1,68 @@
 # MC-Ultimate-Anticheat
+
 Ultimate Anticheat
 
-Indice
-Problemi dei server minecraft
-Hacker
-Bugabuser
-Spammer
-Griefer
+Questo vuole essere un plugin che serva per avere un server pulito senza avere bisogno di anticheat e moderatori che controllino.
+Si basa su certi **concetti base**:
 
-Soluzioni attuali
-Staff e controlli
-Report su forum
+Report personalizzabili (in base a regole del server che si hanno)
+Voto degli utenti
+Ricompense e Penalità
 
-Problematiche
-Staff svogliato e non incentivato da profitto economico
-Controlli lunghi, perdite di tempo, hack difficili da trovare o introvabili
-Forum intasato di segnalazioni 
+**Report personalizzabili**
+Ogni server potrà crearsi la sua gui dove ci saranno i report divisi per categorie. Es (Grief, Hack, Insulti, Spam...)
+Quando la gente reporta dovrà indicare l'intensità di voto (da 1 a 5) più il voto è alto maggiore saranno le ricompense o punizioni.
+Se una persona è incerta della persona segnalata può semplicemente segnalare con meno intensità.
 
-Risoluzione dei problemi
-Utenti che possono jailare, mutare
-Come fidarsi?
-Abuso di potere? 
-Ricompense e punizioni per utenti
+**Voto degli utenti**
+Gli utenti voteranno in base alle regole del server e in base al regolamento le punizioni saranno date in automatico. Il plugin non può sostituire completamente i moderatori quindi quando una persona sarà segnalata per hack non sarà direttamente bannato ma sarà freezzato e portato allo spawn o in una zona dove non possa fare danni. In quel momento lo staffer lo controllerà registrando il controllo. 
 
+**Voting power e ricompense e penalità**
+Partirà da 1000 (come sistema ELO degli scacchi).
+Quando un utente reporterà la sua intensità di voto stabilirà l'ammontare di voting power possibili da vincere o perdere. (Voting power non commerciabile)
+
+Intensità 1
+Vinci 1% del voting power della persona segnalata, se più persone votano con intensità 5 il voting power si divide tra loro. I soldi lockati verranno tutti restituiti e lo staff vincerà lo stesso ammontare che avrebbe vinto se la persona non sarebbe stata punita.
+Perdi 1% del tuo voting power e 5% dei tuoi soldi. Il voting power va tutto alla persona segnalata. I soldi si perdono metà e metà va ai mod che controllano la persona.
+
+Intensità 2
+Vinci 2% del voting power della persona segnalata, se più persone votano con intensità 1 il voting power si divide tra loro. I soldi lockati verranno tutti restituiti e lo staff vincerà lo stesso ammontare che avrebbe vinto se la persona non sarebbe stata punita.
+Perdi 2% del tuo voting power e 5% dei tuoi soldi. Il voting power va tutto alla persona segnalata. I soldi si perdono metà e metà va ai mod che controllano la persona.
+
+Intensità 3
+Vinci 3% del voting power della persona segnalata, se più persone votano con intensità 2 il voting power si divide tra loro. I soldi lockati verranno tutti restituiti e lo staff vincerà lo stesso ammontare che avrebbe vinto se la persona non sarebbe stata punita.
+Perdi 3% del tuo voting power e 5% dei tuoi soldi. Il voting power va tutto alla persona segnalata. I soldi si perdono metà e metà va ai mod che controllano la persona.
+
+Intensità 4
+Vinci 4% del voting power della persona segnalata, se più persone votano con intensità 3 il voting power si divide tra loro. I soldi lockati verranno tutti restituiti e lo staff vincerà lo stesso ammontare che avrebbe vinto se la persona non sarebbe stata punita.
+Perdi 4% del tuo voting power e 5% dei tuoi soldi. Il voting power va tutto alla persona segnalata. I soldi si perdono metà e metà va ai mod che controllano la persona.
+
+Intensità 5
+Vinci 5% del voting power della persona segnalata, se più persone votano con intensità 4 il voting power si divide tra loro. I soldi lockati verranno tutti restituiti e lo staff vincerà lo stesso ammontare che avrebbe vinto se la persona non sarebbe stata punita.
+Perdi 5% del tuo voting power e 5% dei tuoi soldi. Il voting power va tutto alla persona segnalata. I soldi si perdono metà e metà va ai mod che controllano la persona.
+
+Non verranno dati premi in denaro a chi segnala giustamente in modo da evitare farm di bot magari con multi account degli hacker amici di chi segnala.
+Non verranno dati premi in denaro a chi segnala ingiustamente per evitare la possibilità che un cheater con un client difficile da trovare da tutti abbia un boost di soldi.
+Verranno dati premi in denaro solo ai mod (ugualmente se lo trovano legit o se non lo trovano legit) in modo da evitare di fare si che i mod controllino persone giusto per vincere monete.
+
+**Controlli e segnalazioni regole specifiche**
+Lo staff non potrà fare controlli. Questo permette di non potere abusare di potere (ad esempio salvando gli amici dal combat log) o evitare di farmare troppi soldi.
+Se una persona entro tempo determinato non entra nel server discord verrà bannato in automatico e il mod non avrà nessuna ricompensa.
+Se la persona entro il tempo determinato entra nel server discord e nessuno staffer lo controlla verrà data penalità agli staffer presenti sul discord.
+Per evitare di dare penalità alle 3 di notte le segnalazioni che si fanno in un certo lasso di tempo (da mezzanotte a 8 per esempio) non comportano a jail o mute.
+Queste restano report e saranno visionabili dagli staffer che potranno solo in questo caso fare controllo.
+Ogni volta che si segnala i soldi e voting power verranno lockati finche questa persona non slogga.In quel momento soldi e voting power verranno ridati. Si potrà risegnalare appena la persona entra online.
+Non si può segnalare una persona più volte, ma si può segnalare per più motivi.
+Es. Hacker
+Se una persona lo segnala per hack verrà premiato
+Le segnalazioni per tutti gli altri motivi verranno penalizzate meno duramente del normale e non avranno penalità di soldi.
+
+
+
+
+
+
+Quando una persona verrà jailata nel controllo gli verrà detto di joinare il discord del server entro 5 10 minuti. Se la persona non entra nel discord entro 5 10 minuti verrà bannata automaticamente. Lo staffer quindi non dovrà neanche essere online per controllare la persona ma potrà essere anche solo da telefono.
 
 I problemi dei server di minecraft di oggi sono molteplici. Non è colpa degli hacker, spammer e griefer o della gente che vuole rovinare i server. In ogni luogo al mondo e comunità che troviamo ci si aspetta sempre che ci siano persone poco raccomandabili quindi è ovvio pensare di punire queste persone.
 Le persone però trovano sempre in un modo o nell’altro in tutti i campi della vita il modo di aggirare il sistema. Ad esempio su Minecraft la gente utilizza hack, bugabuse e grief dei server. 
@@ -62,7 +102,3 @@ Se le persone segnalano una persona che gli sta sul cazzo solo per il gusto di f
 Se le persone segnalano giustamente voting power.
 
 IL voting power parte da 1000 dopo 5h online e 100 kill. 
-
-
-
-
