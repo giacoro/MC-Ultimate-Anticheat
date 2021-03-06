@@ -2,7 +2,8 @@
 
 BASIC CONCEPTS
 
-1 Costum report gui(based on server rules)
+Costum report gui(based on server rules)
+
 Example
     Hacks Reports
     Spam Reports
@@ -11,8 +12,9 @@ Example
     Bugabusing
     Grief (Rare Case)
 
-2 User vote
-3 Rewards and slashes
+User vote
+
+Rewards and slashes
 
 VISION
 
