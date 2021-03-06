@@ -4,13 +4,13 @@ BASIC CONCEPTS
 
 Costum report gui(based on server rules)
 
-Example
+_Example
     Hacks Reports
     Spam Reports
     Flame Reports
     Lag Reports
     Bugabusing
-    Grief (Rare Case)
+    Grief (Rare Case)_
 
 User vote
 
