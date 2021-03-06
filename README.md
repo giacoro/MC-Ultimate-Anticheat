@@ -53,20 +53,27 @@ In that moment staff can procede and check the player.
 
 Voting power will start set at 1000 (same as ELO system).
 When a player reports other player his vote intensity will determine the amount of voting power possible to win or lose. (Voting power isn't commerciable)
-The intensity is a percentage and it will go from 0 to 50.
+The intensity will go from 1 to 5.
 
-To assure the report is genuine the player will lock a percentage of points equal to the percentage of Voting power that she he can lose or win. The points locked are only a warranty. This will assure no random reports to be made.
+To assure the report is genuine the player will lock a percentage of points/money equal to the Voting power that she/he can lose or win. The points/money locked are only a warranty. This will assure no random reports to be made.
 
-_You win from 0 a 50% of your voting power. Points locked will be given back.
-You lose from 0 a 50% of your voting power. Points locked will be lost._
+The points/money that have to be locked are 10 to 50% of the total of your account. It depends on the intensity of the vote.
 
-No points given away.
-Staff will recieve special staff points based on activity (equallity if they check a report and player is legit or not).
-Staffers will not be able to ban players if they didnt recieve a certain amount of reports choose from staff.
-Admins and owners will be able to value staff points as they like.
+_Player you reported is a cheater-> You win from 10 a 50% of your voting power. Points locked will be given back.
+Player you reported isn't a cheater-> You lose from 10 a 50% of your voting power. Points/Money locked will be lost._
 
-**Specific rules if you apply screenshares**
+1) No points given away.
 
-If a jailed person in a certain amount of time doesnt communicate with the staff will be banned automatically
+2) Staff will recieve special staff points based on activity (equallity if they check a report and player is legit or not).
+
+3) Staffers will not be able to ban players if they didnt recieve a certain amount of reports choose from staff.
+
+4) Admins and owners will be able to value staff points as they like.
+
+**Other rules**
+
+If a jailed person in a certain amount of time doesn't communicate with the staff will be banned automatically
+
 You can't report a player more than one time but you can report for multiple reasons.
+
 When player you reported quits the server you get back your points.
