@@ -56,6 +56,4 @@ Se una persona entro tempo determinato non entra nel server discord verrà banna
 Le segnalazioni che si fanno in un certo lasso di tempo (da mezzanotte a 8 per esempio) non comportano a jail o mute, restano report e saranno visionabili dagli staffer che potranno solo in questo particolare caso fare controllo senza permesso.
 Ogni volta che si segnala i soldi verranno lockati come garanzia di autenticità della segnalazione finche la persona non slogga. In quel momento soldi verranno ridati. Si potrà risegnalare appena la persona entra online.
 Non si può segnalare una persona più volte, ma si può segnalare per più motivi.
-Es. Hacker
-Se una persona lo segnala per hack verrà premiato con voting power
-Le segnalazioni per tutti gli altri motivi non verranno penalizzate.
+In caso una persona segnali per un motivo sbagliato essa non perderà i soldi che ha lockato ma perderà solamente voting power.
