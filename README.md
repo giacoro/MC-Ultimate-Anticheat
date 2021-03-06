@@ -1,93 +1,59 @@
-# MC-Ultimate-Anticheat
+# Atlas Update
 
-Ultimate Anticheat
+BASIC CONCEPTS
+1 Costum report gui(based on server rules)
+Example
 
+    Hacks Reports
+    Spam Reports
+    Flame Reports
+    Lag Reports
+    Bugabusing
+    Grief (Rare Case)
 
-Questo vuole essere un plugin che serva per avere un server pulito senza avere bisogno di anticheat e moderatori che controllino.
+2 User vote
+3 Rewards and slashes
 
-Si basa su certi **concetti base**:
+VISION
 
-Report personalizzabili (in base a regole del server che si hanno)
+Minecraft servers have a lot of problems. On minecraft you cheat, bugabuse and insult.
+Server now use anticheats and moderators that help the server being moderated.
+Server anticheats usually dont find blatant cheats because they can be bypassed.
+If a person cheat and no staff is online you cant do anything if the hacker can bypass anticheat.
 
-Voto degli utenti
+How to solve this problem?
+People want a clean server and have benefits reporting.
+Users will be able to jail, mute and deop people without staff support.
+The vision that I have is that this method could completly sobstitute staffers and that instead of jailing in the next future people could instantly ban.
 
-Ricompense e Penalità
+For the moment the jailed people can be controlled by the staffer.
 
+Costum reports
+Each server can create its own GUI where there will be different categories of report.
+When people report they can choose vote intensity (the higher the vote, the higher the rewards or slashes will be)
+If a person is uncertain of the reported player he can simply signal with less intensity.
 
-**VISION**
+Player vote
+User will vote based on server rules and punishments will be given automatically.
+The plugin can't substitute completly moderators so when a player will be reported, she/he won't be directly banned but only freezed and tped to a safe place "Controlling zone" where he cannot do damage.
+In that moment staff can procede and check the player.
 
-I problemi dei server di minecraft di oggi sono molteplici. Su Minecraft la gente utilizza hack, bugabuse e grief dei server. 
+Voting power and rewards
+Voting power will start set at 1000 (same as ELO system).
+When a player reports other player his vote intensity will determine the amount of voting power possible to win or lose. (Voting power isn't commerciable)
+The intensity is a percentage and it will go from 0 to 50.
 
-Per ovviare a questi problemi ora la gente utilizza anticheat e staff che cerca di aiutare.
+To assure the report is genuine the player will lock a percentage of points equal to the percentage of Voting power that she he can lose or win. The points locked are only a warranty. This will assure no random reports to be made.
 
-Il problema di questo è che lo staff non è incentivato in alcun modo a svolgere un buon lavoro e a non agevolare gli amici se non quello di un warn o di un depex. 
+You win from 0 a 50% of your voting power. Points locked will be given back.
+You lose from 0 a 50% of your voting power. Points locked will be lost.
 
-Gli anticheat dei server spesso non funzionano a dovere e bannano persone legit oppure non trovano hack palesi. 
+No points given away.
+Staff will recieve special staff points based on activity (equallity if they check a report and player is legit or not).
+Staffers will not be able to ban players if they didnt recieve a certain amount of reports choose from staff.
+Admins and owners will be able to value staff points as they like.
 
-Se una persona cheatta e nessuno staffer è online non ci si può fare niente se questa sa bypassare gli anticheat.
-
-
-Partendo da questi presupposti ho cercato di pensare a come risolvere il problema.
-
-Questo metodo si basa sul fatto che gli utenti siano avvantagiati dal fatto di avere un gameplay pulito e che non vogliano trovarsi hacker sul server.
-
-Gli utenti saranno in grado di jailare, mutare o permamutare un utente senza bisogno di uno staffer.
-
-La aspirazione è che questo metodo sostituisca completamente gli staffer e che quindi invece che jailare in un prossimo futuro si possa anche bannare. 
-
-Per il momento chi viene jailato verrà controllato da uno staffer tramite screensharing.
-
-
-**Report personalizzabili**
-
-Ogni server potrà crearsi la sua gui dove ci saranno i report divisi per categorie. Es (Grief, Hack, Insulti, Spam...)
-
-Quando la gente reporta dovrà indicare l'intensità di voto (da 1 a 5) più il voto è alto maggiore saranno le ricompense o punizioni.
-
-Se una persona è incerta della persona segnalata può semplicemente segnalare con meno intensità.
-
-
-**Voto degli utenti**
-
-Gli utenti voteranno in base alle regole del server e in base al regolamento le punizioni saranno date in automatico. 
-
-Il plugin non può sostituire completamente i moderatori quindi quando una persona sarà segnalata per hack non sarà direttamente bannato ma sarà freezzato e portato allo spawn o in una zona dove non possa fare danni. 
-
-In quel momento lo staffer lo controllerà registrando il controllo. 
-
-
-**Voting power e ricompense e penalità**
-
-Partirà da 1000 (come sistema ELO degli scacchi).
-
-Quando un utente reporterà la sua intensità di voto stabilirà l'ammontare di voting power possibili da vincere o perdere. (Voting power non commerciabile)
-
-
-Intensità è una percentuale (X) andrà da 0 a 50.
-
-I soldi lockati devono essere la percentuale di voting power disposti a vincere o perdere. Su questi però non si vincerà niente. Questo permetterà di evitare segnalazioni a caso.
-
-Vinci da 1 a 50% del tuo voting power. I soldi lockati verranno restituiti.
-
-Perdi da 1 a 50% del tuo voting power. I soldi verranno perduti.
-
-Non verranno dati premi in denaro a chi segnala perchè il vantaggio di segnalare un hacker è gia di avere un gameplay pulito.
-
-Non verranno dati premi in denaro ai mod per evitare squilibrio di soldi tra chi è mod e chi è utente. 
-
-Verranno dati premi in staff points a chi controlla (ugualmente se lo trovano legit o se non lo trovano legit).
-
-Gli staffer non potranno controllare la gente per evitare di farmare punti staff. 
-
-Gli admin e owner sceglieranno come valutare questi punti staff.
-
-
-**Controlli e segnalazioni regole specifiche**
-
-Lo staff non potrà fare controlli. Questo permette di non potere abusare di potere (ad esempio salvando gli amici dal combat log) o evitare di farmare staff points. 
-
-Le segnalazioni che si fanno in un certo lasso di tempo (da mezzanotte a 8 per esempio) non comportano a jail o mute, restano report e saranno visionabili dagli staffer che potranno solo in questo particolare caso fare controllo senza permesso.
-
-Se una persona entro tempo determinato non entra nel server discord verrà bannato in automatico.
-
-Non si può segnalare una persona più volte, ma si può segnalare per più motivi.
+Specific rules if you apply screenshares
+If a jailed person in a certain amount of time doesnt communicate with the staff will be banned automatically
+You can't report a player more than one time but you can report for multiple reasons.
+When player you reported quits the server you get back your points.
